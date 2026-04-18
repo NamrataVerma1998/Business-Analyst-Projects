@@ -15,7 +15,7 @@ https://github.com/NamrataVerma1998/Business-Analyst-Projects/blob/main/AI-Workf
 
 ## Screenshot
 
-![AI-Workforce-Dashboard-Tableau/Dashboard.png]
+![Dashboard Preview](Dashboard.png)
 
 ## Tools Used
 Tableau Desktop
