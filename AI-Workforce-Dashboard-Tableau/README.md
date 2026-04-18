@@ -9,9 +9,12 @@ across 8+ industries and 9 countries.
 - Skill Pressure by Job Role
 - AI Readiness by Country (2019–2027)
 
+## Data Used
+
 ## Screenshot
 ![Dashboard.png](https://github.com/NamrataVerma1998/Business-Analyst-Projects/blob/main/Dashboard.png)
 
 ## Tools Used
 Tableau Desktop
 
+## Key Findings
