@@ -14,7 +14,8 @@ across 8+ industries and 9 countries.
 https://github.com/NamrataVerma1998/Business-Analyst-Projects/blob/main/AI-Workforce-Dashboard-Tableau/ai_job_replacement_2020_2026_DataSet.xlsx
 
 ## Screenshot
-![Dashboard.png](https://github.com/NamrataVerma1998/Business-Analyst-Projects/blob/main/Dashboard.png)
+
+!https://github.com/NamrataVerma1998/Business-Analyst-Projects/blob/main/AI-Workforce-Dashboard-Tableau/Dashboard.png
 
 ## Tools Used
 Tableau Desktop
