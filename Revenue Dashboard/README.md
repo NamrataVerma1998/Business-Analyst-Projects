@@ -10,7 +10,9 @@ https://github.com/NamrataVerma1998/Business-Analyst-Projects/blob/main/Revenue%
 
 ## Dashboard Screenshot
 
-!(Revenue Dashboard/Revenue Dashboard.png)
+## Screenshot
+
+![Revenue Dashboard](Revenue%20Dashboard.png)
 
 ## Key Findings
 
