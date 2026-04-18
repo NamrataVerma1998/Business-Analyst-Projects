@@ -8,6 +8,10 @@ To build a comprehensive, single-view Excel dashboard that enables leadership to
 ## Date Used
 https://github.com/NamrataVerma1998/Business-Analyst-Projects/blob/main/Revenue%20Dashboard/Project%20Dashboard_ecommerce_sales_data_with_target.xlsx
 
+## Dashboard Screenshot
+
+![Dashboard Preview](Revenue Dashboard.png)
+
 ## Key Findings
 
 **1. Revenue vs Target Gap:** Total Revenue stands at ₹10.67M against a target of ₹12.55M, with overall target attainment at 85% — indicating a ₹1.88M shortfall requiring strategic review.
