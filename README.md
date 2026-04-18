@@ -10,7 +10,7 @@ across 8+ industries and 9 countries.
 - AI Readiness by Country (2019–2027)
 
 ## Screenshot
-Dashboard.png
+[Dashboard.png](https://github.com/NamrataVerma1998/Business-Analyst-Projects/blob/main/Dashboard.png)
 
 ## Tools Used
 Tableau Desktop
