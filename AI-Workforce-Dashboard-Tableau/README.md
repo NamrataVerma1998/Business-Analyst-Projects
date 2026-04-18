@@ -15,7 +15,7 @@ https://github.com/NamrataVerma1998/Business-Analyst-Projects/blob/main/AI-Workf
 
 ## Screenshot
 
-!https://github.com/NamrataVerma1998/Business-Analyst-Projects/blob/main/AI-Workforce-Dashboard-Tableau/Dashboard.png
+![AI-Workforce-Dashboard-Tableau/Dashboard.png]
 
 ## Tools Used
 Tableau Desktop
