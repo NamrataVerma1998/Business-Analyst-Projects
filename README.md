@@ -1,15 +1,10 @@
-data-analytics-portfolio/
-│
-├── README.md                          ← Main portfolio page
-│
-├── AI-Workforce-Dashboard-Tableau/
-│     ├── dashboard_screenshot.png
-│     ├── AI_Workforce.twbx            ← Tableau file
-│     └── README.md                    ← Project description
-│
-├── Revenue-Performance-Dashboard-Excel/
-│     ├── dashboard_screenshot.png
-│     ├── Revenue_Dashboard.xlsx       ← Excel file
-│     └── README.md                    ← Project description
-│
-└── (future projects go here)
+# Namrata Verma — Data Analytics Portfolio
+
+Business Analyst | SQL • Tableau • Advanced Excel | Finance & Operations
+
+## Projects
+
+| Project | Tools | Description |
+|---------|-------|-------------|
+| [AI Workforce Transformation Dashboard](./AI-Workforce-Dashboard-Tableau) | Tableau | Workforce disruption analysis across 8+ industries |
+| [Revenue Performance Dashboard](./Revenue-Performance-Dashboard-Excel) | Advanced Excel | ₹10.67M revenue tracking across regions & categories |
