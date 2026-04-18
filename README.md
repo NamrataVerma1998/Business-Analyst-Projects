@@ -1,16 +1,15 @@
-# AI Workforce Transformation Dashboard — Tableau
-
-Interactive dashboard analysing AI-driven workforce disruption 
-across 8+ industries and 9 countries.
-
-## Key Features
-- Automation Risk by Industry
-- Reskilling Urgency Scores
-- Skill Pressure by Job Role
-- AI Readiness by Country (2019–2027)
-
-## Screenshot
-![Dashboard.png](https://github.com/NamrataVerma1998/Business-Analyst-Projects/blob/main/Dashboard.png)
-
-## Tools Used
-Tableau Desktop
+data-analytics-portfolio/
+│
+├── README.md                          ← Main portfolio page
+│
+├── AI-Workforce-Dashboard-Tableau/
+│     ├── dashboard_screenshot.png
+│     ├── AI_Workforce.twbx            ← Tableau file
+│     └── README.md                    ← Project description
+│
+├── Revenue-Performance-Dashboard-Excel/
+│     ├── dashboard_screenshot.png
+│     ├── Revenue_Dashboard.xlsx       ← Excel file
+│     └── README.md                    ← Project description
+│
+└── (future projects go here)
