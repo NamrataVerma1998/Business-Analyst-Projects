@@ -6,6 +6,10 @@ Analyzed a bank marketing dataset using SQL to evaluate customer behavior and ca
 
 To uncover actionable insights that help improve marketing campaign effectiveness and customer targeting strategies.
 
+## Dataset Used
+
+https://github.com/NamrataVerma1998/Business-Analyst-Projects/blob/main/Banking%20Marketing%20Campaign/Banking_data.csv
+
 ## Key Insights
 
 -Customers with longer call durations showed significantly higher conversion rates
@@ -21,6 +25,10 @@ To uncover actionable insights that help improve marketing campaign effectivenes
 -Grouping & Filtering (GROUP BY, ORDER BY)
 -Window Functions (RANK)
 -Data Segmentation & Bucketing
+
+## SQL Codes
+
+https://github.com/NamrataVerma1998/Business-Analyst-Projects/blob/main/Banking%20Marketing%20Campaign/Banking%20%26%20finance%20Project.sql
 
 ## Outcome
 
