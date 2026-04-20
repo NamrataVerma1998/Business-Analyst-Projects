@@ -9,3 +9,4 @@ Business Analyst | SQL • Tableau • Advanced Excel | Finance & Operations
 | [AI Workforce Transformation Dashboard](./AI-Workforce-Dashboard-Tableau) | Tableau | Workforce disruption analysis across 8+ industries |
 | [Revenue Performance Dashboard](./Revenue-Performance-Dashboard-Excel) | Advanced Excel | ₹10.67M revenue tracking across regions & categories |
 | [Bank Marketing Campaign Analysis using SQL](./Banking-Marketing-Campaign)| SQL | Analyzed bank marketing data using SQL to identify key factors influencing customer subscription rates and optimize campaign performance |
+| [Olist E-Commerce](./Olist-E-Commerce)| SQL | E-commerce data analysis using SQL with focus on revenue, customers, sellers, and delivery metrics |
