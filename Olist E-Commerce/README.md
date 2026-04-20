@@ -56,8 +56,8 @@ Top sellers by revenue
 
 ## 📊 Key Insights
 
--A small group of customers contributes a significant share of total revenue
--Revenue is concentrated in specific states, indicating regional demand differences
--Some orders are delivered after the estimated date, highlighting logistics gaps
--A limited number of sellers dominate both order volume and revenue
--Payment behavior shows reliance on specific payment methods and installment usage
+a. A small group of customers contributes a significant share of total revenue.
+b. Revenue is concentrated in specific states, indicating regional demand differences.
+c. Some orders are delivered after the estimated date, highlighting logistics gaps.
+d. A limited number of sellers dominate both order volume and revenue.
+e. Payment behavior shows reliance on specific payment methods and installment usage.
