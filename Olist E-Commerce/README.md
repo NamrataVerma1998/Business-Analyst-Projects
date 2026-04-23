@@ -7,12 +7,12 @@ The analysis is performed using relational data across multiple tables, focusing
 
 ## 🗂️ Dataset Tables Used
 
-customers_data – customer identifiers and location details
-orders – order lifecycle, timestamps, and delivery information
-order_items – product-level details including price and freight
-Payment_data – payment values, types, and installments
-products – product categories and attributes
-Sellers – seller identifiers and location details
+- customers_data – customer identifiers and location details
+- orders – order lifecycle, timestamps, and delivery information
+- order_items – product-level details including price and freight
+- Payment_data – payment values, types, and installments
+- products – product categories and attributes
+- Sellers – seller identifiers and location details
 
 ## SQL Codes
 
