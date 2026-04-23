@@ -18,6 +18,7 @@ Sellers – seller identifiers and location details
 
 [Olist E-Commerce/Project Brazilian E commerce.sql](https://github.com/NamrataVerma1998/Business-Analyst-Projects/blob/main/Olist%20E-Commerce/Project%20Brazilian%20E%20commerce.sql)
 
+
 ## 🛠️ Tools & Technologies
 
 SQL (MySQL)
